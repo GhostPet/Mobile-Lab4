@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBrowser</string>
+    <string name="back">Back</string>
+    <string name="forward">Forward</string>
+    <string name="home">Home</string>
+    <string name="go">Go</string>
+    <string name="web_adress">web adress</string>
+</resources>
